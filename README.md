@@ -4,17 +4,17 @@ SSHDASH is a sleek, all-in-one SSH dashboard that auto-connects to your server a
 
 
 
-# ❗ License
+# License
 
 This software is licensed under a Custom Non-Commercial Software License.
 
-    ✅ You can use, modify, and enjoy it for personal use.
+You can use, modify, and enjoy it for personal use.
 
-    ❌ You cannot use it commercially or redistribute for profit.
+You cannot use it commercially or redistribute for profit.
 
-    📎 You must give proper credit to the original author.
+You must give proper credit to the original author.
 
-See LICENSE for details.
+See [LICENSE](https://github.com/huhwhatbruh/SSHDash/blob/main/LICENSE) for details.
 
 For commercial licensing, contact: blackcellinteractive@gmail.com
 
