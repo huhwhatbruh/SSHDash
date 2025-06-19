@@ -1,3 +1,9 @@
+
+
+(https://github.com/user-attachments/assets/810994ac-084d-4228-905b-b60751e0f0c7)
+
+
+
 # SSHDash
 SSHDASH is a sleek, all-in-one SSH dashboard gives you a real-time command center. Split into multiple panes, it shows your terminal, system stats, and essential server tools all in one smooth, modern interface. 
 I just wanted a good looking SSH client cuz lowk ts pmo how terrible most of the SSH gui clients are.
